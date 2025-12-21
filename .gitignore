@@ -1,0 +1,24 @@
+# Python相关
+__pycache__/
+*.py[cod]
+*.so
+venv/
+.venv/
+env/
+*.egg-info/
+dist/
+build/
+requirements.txt
+
+# 环境变量
+.env
+.env.local
+.env.*.local
+
+# VS Code相关
+.vscode/
+*.code-workspace
+.DS_Store
+
+# 日志
+*.log
